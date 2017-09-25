@@ -9,7 +9,7 @@ import android.os.Bundle;
 * 2.Goto Project and configure >> Build Trigger >> check GitHub hook trigger for GITScm polling and save
 * 3.Goto Github >> setting >> webhook >> add webhook >> add jenkins project URL and save.*/
 
-
+//now added localhost IP
 public class MainActivity extends AppCompatActivity {
 
     @Override
