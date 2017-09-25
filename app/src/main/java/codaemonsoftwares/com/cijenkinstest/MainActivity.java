@@ -8,6 +8,8 @@ import android.os.Bundle;
 * 1.Install Plugin on jenkins - "github integration plugin"
 * 2.Goto Project and configure >> Build Trigger >> check GitHub hook trigger for GITScm polling and save
 * 3.Goto Github >> setting >> webhook >> add webhook >> add jenkins project URL and save.*/
+
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
